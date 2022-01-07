@@ -1,0 +1,3 @@
+
+def get_level(is_high: bool) -> int:
+    return 100 if is_high else 0
